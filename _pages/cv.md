@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics and Physics, MIPT, Russia, 2017
-* M.S. in Industrial and Applied Mathematics, UGA (Ensimag), France, 2018
-* M.S. in Applied Mathematics and Physics, MIPT, Russia, 2019 (expected)
+* B.Sc. in Applied Mathematics and Physics, MIPT, Russia, 2017
+* M.Sc. in Industrial and Applied Mathematics, UGA (Ensimag), France, 2018
+* M.Sc. in Applied Mathematics and Physics, MIPT, Russia, 2019 (expected)
 * Ph.D in Applied Mathematics and Informatics (localization of connected objects using machine learning techniques), CEA-Leti and AMA team of LIG, 2021 (expected)
 
 Work experience
@@ -46,4 +46,6 @@ Publications
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Supervised first-year students
+* Organised Physics and Math competitions of MIPT
+* Taught informatics and mathematics to pupils
