@@ -11,21 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics and Physics, MIPT, Russia, 2017
+* M.S. in Industrial and Applied Mathematics, UGA (Ensimag), France, 2018
+* M.S. in Applied Mathematics and Physics, MIPT, Russia, 2019 (expected)
+* Ph.D in Applied Mathematics and Informatics (localization of connected objects using machine learning techniques), CEA-Leti and AMA team of LIG, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015 - 2017, Bachelor student researcher
+  * GosNIIAS, Russia
+  * Develop model of formation of random traffic flows to address research problems at the aerodrome surface
+  * Supervisors: Zheltov S., Vishnyakova L. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* February-July 2018: Research Intern
+  * INRIA Grenoble, Mistis and NeCS teams
+  * Understanding data accidents for traffic safety
+  * Supervisors: J. Arbel, M.L. Delle Monache
   
 Skills
 ======
@@ -42,18 +43,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
